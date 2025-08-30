@@ -1,0 +1,5 @@
+{
+  "name": "The Gilded Spoon Reservations",
+  "description": "A modern, real-time restaurant reservation system. Customers can discover availability and book tables, while restaurant staff manage reservations through a comprehensive dashboard.",
+  "requestFramePermissions": []
+}
